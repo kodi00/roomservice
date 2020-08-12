@@ -1,0 +1,8 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+	  
+	  <project name="kodi00/android_device_ocean-10" path="device/motorola/ocean" remote="github" revision="descendant" />
+	  <project name="kodi00/android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="github" revision="descendant" />
+	  <project name="kodi00/android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="github" revision="descendant" />
+	  <project name="kodi00/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="descendant" />
+  </manifest>
